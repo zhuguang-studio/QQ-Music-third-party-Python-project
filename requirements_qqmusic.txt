@@ -1,0 +1,6 @@
+# QQ音乐AI播放器 - 依赖清单
+# 安装方式: pip install -r requirements.txt
+
+openai>=1.0.0
+qqmusic-api-python
+python-mpv
